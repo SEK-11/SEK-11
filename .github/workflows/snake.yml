@@ -1,0 +1,34 @@
+name: Update Contribution Snake
+
+on:
+  # runs daily at midnight UTC; you can also trigger on push if you like
+  schedule:
+    - cron: '0 0 * * *'
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # 1. Check out your repo
+      - uses: actions/checkout@v3
+
+      # 2. Generate the snake SVG
+      - name: Generate contribution snake
+        uses: platane/gh-contributions-snake-action@v2
+        with:
+          # uses the built-in GITHUB_TOKEN
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          # change the output path if you like; default is
+          # 'github-contribution-grid-snake.svg' at repo root
+          output: './output/github-contribution-grid-snake.svg'
+
+      # 3. Commit & push the updated snake file
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          branch: main
+          commit_message: chore: update contribution snake
+          file_pattern: output/github-contribution-grid-snake.svg
