@@ -1,34 +1,32 @@
-name: Update Contribution Snake
+# .github/workflows/snake.yml
+name: 🐍 Generate Contribution Snake
 
 on:
-  # runs daily at midnight UTC; you can also trigger on push if you like
   schedule:
-    - cron: '0 0 * * *'
-  push:
-    branches:
-      - main
+    - cron: "0 0 * * *"    # runs daily at UTC midnight
+  workflow_dispatch:       # manual trigger
 
 jobs:
-  build:
+  build-snake:
     runs-on: ubuntu-latest
+
     steps:
-      # 1. Check out your repo
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v4
 
-      # 2. Generate the snake SVG
-      - name: Generate contribution snake
-        uses: platane/gh-contributions-snake-action@v2
+      - name: Generate snake SVG
+        uses: Platane/snk@v3
         with:
-          # uses the built-in GITHUB_TOKEN
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          # change the output path if you like; default is
-          # 'github-contribution-grid-snake.svg' at repo root
-          output: './output/github-contribution-grid-snake.svg'
+          github_user_name: SEK-11
+          # output file path relative to repo root:
+          output_file_name: github-contribution-grid-snake.svg
 
-      # 3. Commit & push the updated snake file
-      - name: Commit and push changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          branch: main
-          commit_message: chore: update contribution snake
-          file_pattern: output/github-contribution-grid-snake.svg
+      - name: Commit & push SVG
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add github-contribution-grid-snake.svg
+          git commit -m "chore: update contribution snake" || echo "no changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
