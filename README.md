@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5F6D&center=true&width=680&lines=Hey%20there!%20I'm%20SHANTANU KADAM!;AI/ML%20Engineer%20%7C%20Computer%20Vision%20Ninja" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5F6D&center=true&width=680&lines=Hey%20there!%20I'm%20Shantanu!;AI/ML%20Engineer%20%7C%20Computer%20Vision%20Ninja" alt="Typing SVG"/>
 </p>
+
 
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
