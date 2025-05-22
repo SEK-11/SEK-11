@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5F6D&center=true&width=680&lines=Hey%20there!%20I'm%20[Shantanu%20Kadam]!;AI/ML%20Engineer%20%7C%20CV%20Ninja" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=FF5F6D&center=true&width=680&lines=Hey%20there!%20I'm%20SEK-11!;AI/ML%20Engineer%20%7C%20Computer%20Vision%20Ninja" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 ## 🔭 About Me
 - 🏗️ Building **real-time face recognition**, **human activity detection**, **video summarizers**, and **AI assistants**  
-- 🎯 Focused on **Generative AI**, **VQA**, **Object Detection** (YOLOv8, RTDETR), **Pose Estimation**, **NLP**  
+- 🎯 Focused on **Generative AI**, **Visual Question Answering**, **Object Detection** (YOLOv8, RTDETR), **Pose Estimation**, **NLP**  
 - 🌱 Learning **LLM fine-tuning**, **full-stack AI integrations**, and **AI patent writing**  
 - 🤝 Open to **open-source collaborations** on AI/CV/ML  
 
@@ -20,7 +20,6 @@
 ## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <!-- Animated badges via Shields.io -->
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge&logoColor=white"/>
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&style=for-the-badge&logoColor=white"/>
   <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&style=for-the-badge&logoColor=white"/>
@@ -41,16 +40,16 @@
 ## 📈 GitHub Stats & Achievements
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats"/>
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical&hide_border=true" alt="GitHub Streak"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SEK-11&show_icons=true&theme=radical&hide_border=true" alt="SEK-11's GitHub Stats"/>
+  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEK-11&theme=radical&hide_border=true" alt="SEK-11's GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical&hide_border=true" alt="Top Languages"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEK-11&layout=compact&theme=radical&hide_border=true" alt="SEK-11's Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-username&theme=radical&no-frame=true&column=4&margin-w=10" alt="Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SEK-11&theme=radical&no-frame=true&column=4&margin-w=10" alt="SEK-11's Trophies"/>
 </p>
 
 ---
@@ -58,7 +57,7 @@
 ## 🔥 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-username/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/SEK-11/SEK-11/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
 
 ---
@@ -67,9 +66,7 @@
 
 <p align="center">
   <!-- Visitor counter -->
-  ![Visitor Count](https://komarev.com/ghpvc/?username=your-username&color=brightgreen)
-  <!-- GitHub Action build badge -->
-  <img src="https://github.com/your-username/your-repo/workflows/CI/badge.svg" alt="Build Status" />
+  ![Visitor Count](https://komarev.com/ghpvc/?username=SEK-11&color=brightgreen)
 </p>
 
 ---
@@ -77,11 +74,21 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/></a>&nbsp;
-  <a href="mailto:your.email@example.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Email"/></a>&nbsp;
-  <a href="https://kaggle.com/your-profile" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="30" alt="Kaggle"/></a>&nbsp;
-  <a href="https://your-portfolio.com" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/website/website-original.svg" width="30" alt="Portfolio"/></a>&nbsp;
-  <a href="https://twitter.com/your-handle" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" alt="Twitter"/></a>
+  <a href="https://linkedin.com/in/your-profile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
+  </a>&nbsp;
+  <a href="mailto:your.email@example.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Email"/>
+  </a>&nbsp;
+  <a href="https://kaggle.com/your-profile" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="30" alt="Kaggle"/>
+  </a>&nbsp;
+  <a href="https://your-portfolio.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/website/website-original.svg" width="30" alt="Portfolio"/>
+  </a>&nbsp;
+  <a href="https://twitter.com/your-handle" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" alt="Twitter"/>
+  </a>
 </p>
 
 ---
