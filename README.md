@@ -3,71 +3,57 @@
 </p>
 
 <p align="center">
-  <!-- Fun coding animation -->
-  <img src="https://c.tenor.com/6VxnNI4mF54AAAAC/typing-coding.gif" alt="Coding Animation" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding gif">
 </p>
 
 ---
 
 ## 🔭 About Me
-- 🏗️ Building **real-time face recognition**, **human activity detection**, **video summarizers**, and **AI assistants**  
-- 🎯 Focused on **Generative AI**, **Visual Question Answering**, **Object Detection** (YOLOv8, RTDETR), **Pose Estimation**, **NLP**  
-- 🌱 Learning **LLM fine-tuning**, **full-stack AI integrations**, and **AI patent writing**  
-- 🤝 Open to **open-source collaborations** on AI/CV/ML  
+- 🧠 AI/ML Engineer passionate about real-time face recognition, generative AI, and visual intelligence.
+- 📹 Building **video summarizers**, **object trackers**, **AI assistants**, and **pose estimators**
+- 🛠️ Currently exploring **LLM fine-tuning**, **full-stack AI integrations**, and **AI patent writing**
+- 🤝 Open for **collaborations**, **mentorships**, and **exciting AI projects**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🧰 Tech Stack
 
 <p align="center">
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&style=for-the-badge&logoColor=white"/>
-  <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&style=for-the-badge&logoColor=white"/>
-  <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&style=for-the-badge&logoColor=white"/>
-  <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&style=for-the-badge&logoColor=white"/>
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&style=for-the-badge&logoColor=white"/>
-  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&style=for-the-badge&logoColor=white"/>
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB?logo=react&style=for-the-badge&logoColor=black"/>
-  <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?logo=node.js&style=for-the-badge&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&style=for-the-badge&logoColor=white"/>
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?logo=docker&style=for-the-badge&logoColor=white"/>
-  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&style=for-the-badge&logoColor=white"/>
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?logo=git&style=for-the-badge&logoColor=white"/>
-  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&style=for-the-badge&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,fastapi,streamlit,react,nodejs,mongodb,docker,kubernetes,git,linux&perline=6" />
 </p>
 
 ---
 
-## 📈 GitHub Stats & Achievements
+## 📊 GitHub Stats
 
 <p align="center">
-  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=SEK-11&show_icons=true&theme=radical&hide_border=true" alt="SEK-11's GitHub Stats"/>
-  <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=SEK-11&theme=radical&hide_border=true" alt="SEK-11's GitHub Streak"/>
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=SEK-11&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=SEK-11&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEK-11&layout=compact&theme=radical&hide_border=true" alt="SEK-11's Top Languages"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEK-11&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEK-11&theme=radical&no-frame=true&column=4&margin-w=10" alt="SEK-11's Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SEK-11&theme=tokyonight&no-frame=true&margin-w=10&column=4" />
 </p>
 
 ---
 
-## 🔥 Contribution Snake
+## 🐍 GitHub Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/SEK-11/SEK-11/blob/main/.github/workflows/snake.yml" alt="Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/SEK-11/SEK-11/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
-
 
 ---
 
-## 🎉 Fun Widgets & Animations
+## 🎨 Fun Widgets
 
 <p align="center">
-  <!-- Visitor counter -->
-  ![Visitor Count](https://komarev.com/ghpvc/?username=SEK-11&color=brightgreen)
+  <img src="https://komarev.com/ghpvc/?username=SEK-11&style=flat-square&color=brightgreen" alt="Visitor Count"/>
+  <img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=%24.followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2FSEK-11&style=flat-square&logo=github" />
 </p>
 
 ---
@@ -75,23 +61,12 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn"/>
-  </a>&nbsp;
-  <a href="mailto:your.email@example.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="30" alt="Email"/>
-  </a>&nbsp;
-  <a href="https://kaggle.com/your-profile" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="30" alt="Kaggle"/>
-  </a>&nbsp;
-  <a href="https://your-portfolio.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/website/website-original.svg" width="30" alt="Portfolio"/>
-  </a>&nbsp;
-  <a href="https://twitter.com/your-handle" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30" alt="Twitter"/>
-  </a>
+  <a href="mailto:shantanuekadam@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge"></a>
+  <a href="https://linkedin.com/in/shantanu-kadam-7b4225192/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"></a>
+  <a href="https://github.com/SEK-11"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge"></a>
 </p>
 
 ---
 
-> **“Turning data into decisions, and code into impactful solutions.”** 🚀
+> 💡 _“Turning data into decisions, and code into impactful solutions.”_
+
