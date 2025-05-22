@@ -18,7 +18,8 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: SEK-11
-          output_file_name: 'output/github-contribution-grid-snake.svg'
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          outputs: 'output/github-contribution-grid-snake.svg'
 
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v4
